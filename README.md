@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, I'm Wai Yan Win 👋
 
-<!--
-**WaiYanWin147/WaiYanWin147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security student at the **University of Wollongong (SIM)**, graduating 2027 and working towards a career as a **SOC Analyst**.
 
-Here are some ideas to get you started:
+I like figuring out how attacks work and how to catch them early: incident response, network security, and the security of AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔐 What I've been working on
+
+**[ShapeRush](https://github.com/Tiarasxm/FYP)** · *Final Year Project, Team Lead*
+A cross-platform fitness app (Flutter + Next.js) on a shared Supabase backend. I lead a four-person team and designed the PostgreSQL database, with **Row Level Security** enforcing least-privilege access across five user roles.
+
+**[Backdoors, Trigger Forensics & Watermarking](https://www.kaggle.com/code/waiyanwin/backdoors-trigger-forensics-fingerprint-evasion)** · *AI Security*
+Planted and then forensically reverse-engineered a neural-network backdoor (Neural Cleanse, 98% trigger recovery), evaded a model-fingerprinting system, and built an image-watermark detector with **0% false positives**.
+
+**[Adversarial Attacks on Image Classifiers](https://www.kaggle.com/code/waiyanwin/adversarial-examples-vs-a-cifar-10-classifier)** · *AI Security*
+Grey-box, universal and adaptive attacks on a CIFAR-10 classifier, reaching **94–95% targeted success** and showing how a randomised defence collapses against an attacker who knows it exists.
+
+---
+
+#### 🧰 Tools & tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Security focus:** incident response · network security · intrusion detection · access control · cryptography · Zero Trust · adversarial ML
+
+---
+
+#### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/wai-yan-win-2752ab443) · [Kaggle](https://www.kaggle.com/waiyanwin) · Singapore 🇸🇬
+
+*Open to graduate and entry-level SOC / security operations roles.*
