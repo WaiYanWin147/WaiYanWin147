@@ -1,20 +1,20 @@
 ### Hi, I'm Wai Yan Win 👋
 
-Cyber Security student at the **University of Wollongong (SIM)**, graduating 2027 and working towards a career as a **SOC Analyst**.
+Cyber Security graduate from the **University of Wollongong (SIM)**, starting my career as a **SOC Analyst**.
 
 I like figuring out how attacks work and how to catch them early: incident response, network security, and the security of AI systems.
 
 ---
 
-#### 🔐 What I've been working on
+#### 🔐 Selected projects
 
-**[ShapeRush](https://github.com/Tiarasxm/FYP)** · *Final Year Project, Team Lead*
-A cross-platform fitness app (Flutter + Next.js) on a shared Supabase backend. I lead a four-person team and designed the PostgreSQL database, with **Row Level Security** enforcing least-privilege access across five user roles.
+**[ShapeRush](https://github.com/Tiarasxm/FYP)** · *Final Year Project, Team Lead*<br>
+A cross-platform fitness app (Flutter + Next.js) on a shared Supabase backend. I led a four-person team and designed the PostgreSQL database, with **Row Level Security** enforcing least-privilege access across five user roles.
 
-**[Backdoors, Trigger Forensics & Watermarking](https://www.kaggle.com/code/waiyanwin/backdoors-trigger-forensics-fingerprint-evasion)** · *AI Security*
+**[Backdoors, Trigger Forensics & Watermarking](https://www.kaggle.com/code/waiyanwin/backdoors-trigger-forensics-fingerprint-evasion)** · *AI Security*<br>
 Planted and then forensically reverse-engineered a neural-network backdoor (Neural Cleanse, 98% trigger recovery), evaded a model-fingerprinting system, and built an image-watermark detector with **0% false positives**.
 
-**[Adversarial Attacks on Image Classifiers](https://www.kaggle.com/code/waiyanwin/adversarial-examples-vs-a-cifar-10-classifier)** · *AI Security*
+**[Adversarial Attacks on Image Classifiers](https://www.kaggle.com/code/waiyanwin/adversarial-examples-vs-a-cifar-10-classifier)** · *AI Security*<br>
 Grey-box, universal and adaptive attacks on a CIFAR-10 classifier, reaching **94–95% targeted success** and showing how a randomised defence collapses against an attacker who knows it exists.
 
 ---
